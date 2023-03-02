@@ -25,14 +25,18 @@
 
 <p align="center">
 
-  <img width="460" height="300" src="https://github.com/Juldid/Data_analysis_e_commerce/blob/main/Heatmap.JPG">
+  <img width="560" height="400" src="https://github.com/Juldid/Data_analysis_e_commerce/blob/main/Heatmap.JPG">
 
 </p>
 
 7. Построена тепловая карта значений retention rate (RR) по когортам на протяжении года, а также retention rate (RR) с накопительным итогом по году. Так мы видим картину целиком: когорты с самым высоким ("майская") и самым низким ("февральская") RR по году.
 8. Проведена RFM-сегментация пользователей и оценена аудитория.
 
-![Image alt](https://github.com/Juldid/Data_analysis_e_commerce/blob/main/Monetary%20Grid.JPG)
+<p align="center">
+
+  <img width="560" height="400" src="https://github.com/Juldid/Data_analysis_e_commerce/blob/main/Monetary%20Grid.JPG">
+
+</p>
 
 **Champions** - это VIP-пользователи, удерживаем, даем им особые условия, приглашаем в клуб любимых клиентов. Наша любимая категория, но к сожалению она составляют только 2% от общего количества пользователей.
 
