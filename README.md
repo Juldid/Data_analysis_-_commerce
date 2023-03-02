@@ -25,7 +25,7 @@
 
 <p align="center">
 
-  <img width="560" height="400" src="https://github.com/Juldid/Data_analysis_e_commerce/blob/main/Heatmap.JPG">
+  <img width="560" height="450" src="https://github.com/Juldid/Data_analysis_e_commerce/blob/main/Heatmap.JPG">
 
 </p>
 
@@ -34,7 +34,7 @@
 
 <p align="center">
 
-  <img width="560" height="400" src="https://github.com/Juldid/Data_analysis_e_commerce/blob/main/Monetary%20Grid.JPG">
+  <img width="560" height="450" src="https://github.com/Juldid/Data_analysis_e_commerce/blob/main/Monetary%20Grid.JPG">
 
 </p>
 
